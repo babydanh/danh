@@ -15,8 +15,8 @@
 <h2 align="center">About Me</h2>
 
 <table border="0" width="100%">
-  <tr border="0">
-    <td width="55%" valign="top" border="0">
+  <tr>
+    <td width="55%" valign="top">
       <ul>
         <li>🎓 **IT Student** @ <b>HUFLIT</b> University</li>
         <li>🚀 **Developing**: <b>RaoVat24H</b> (Professional Flutter Application)</li>
@@ -27,7 +27,7 @@
         <li>🎮 **Hobbies**: Minecraft, Valorant</li>
       </ul>
     </td>
-    <td width="45%" valign="top" align="right" border="0">
+    <td width="45%" valign="top" align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=babydanh&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
       <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babydanh&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
@@ -38,10 +38,6 @@
 <hr style="border-top: 1px solid #30363d; margin-top: 30px;">
 
 <h2 align="center">Tech Stacks</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babydanh&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <b>A Passionate Frontend Developer From Vietnam</b>
@@ -55,7 +51,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <table border="0" align="center" cellspacing="0" cellpadding="0">
-  <tr border="0">
+  <tr>
     <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45" hspace="5" vspace="5"/></a></td>
     <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45" hspace="5" vspace="5"/></a></td>
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" hspace="5" vspace="5"/></a></td>
@@ -69,7 +65,7 @@
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" hspace="5" vspace="5"/></a></td>
     <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" hspace="5" vspace="5"/></a></td>
   </tr>
-  <tr border="0">
+  <tr>
     <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="45" height="45" hspace="5" vspace="5"/></a></td>
     <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" hspace="5" vspace="5"/></a></td>
     <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" hspace="5" vspace="5"/></a></td>
@@ -91,6 +87,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/babydanh/babydanh/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babydanh&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
