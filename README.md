@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png" width="160" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/babydanh/babydanh/main/src/assets/avatar.jpg" width="160" style="border-radius: 50%;" />
 </p>
 
 <hr style="border-top: 1px solid #30363d;">
