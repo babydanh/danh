@@ -35,6 +35,33 @@
   color: #4facfe;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.theme-toggle {
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  padding: 0;
+  line-height: 1;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.2);
+}
+
+.theme-toggle:active {
+  transform: scale(0.9) rotate(180deg);
+}
+
 /* ═══════════════════════════════════════════
    MUSIC PLAYER (floating button)
    ═══════════════════════════════════════════ */
@@ -263,8 +290,8 @@
 }
 
 .avatar-img {
-  width: 220px;
-  height: 220px;
+  width: 260px;
+  height: 260px;
   border-radius: 50%;
   object-fit: cover;
   border: 4px solid rgba(255, 255, 255, 0.1);
@@ -503,7 +530,105 @@
   border-top: 1px solid rgba(255, 255, 255, 0.06);
   color: #555;
   font-size: 0.85rem;
+  transition: background 0.3s ease, color 0.3s ease;
 }
+
+/* ═══════════════════════════════════════════
+   LIGHT MODE OVERRIDES
+   ═══════════════════════════════════════════ */
+
+body.light-mode {
+  background: #f0f8ff; /* AliceBlue base */
+  color: #1a1a1a;
+}
+
+body.light-mode .header {
+  background: rgba(240, 248, 255, 0.8);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+body.light-mode .header-name {
+  color: #1a1a1a;
+}
+
+body.light-mode .header-email {
+  color: #555;
+}
+
+body.light-mode .header-email:hover {
+  color: #4facfe;
+}
+
+body.light-mode .hero-title {
+  color: #000;
+}
+
+body.light-mode .hero-subtitle {
+  color: #444;
+}
+
+body.light-mode .section-title {
+  color: #111;
+  text-decoration-color: #4facfe;
+}
+
+body.light-mode .project-card {
+  background: rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+body.light-mode .card-title {
+  color: #222;
+}
+
+body.light-mode .card-desc {
+  color: #666;
+}
+
+body.light-mode .btn-outline {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #222;
+}
+
+body.light-mode .btn-outline:hover {
+  background: #1a1a1a;
+  color: #fff;
+}
+
+body.light-mode .footer {
+  background: rgba(240, 248, 255, 0.8);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  color: #666;
+}
+
+body.light-mode .music-player {
+  background: rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+body.light-mode .music-toggle {
+  color: #1a1a1a;
+}
+
+body.light-mode .volume-slider {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+body.light-mode .empty-projects {
+  color: #888;
+}
+
+body.light-mode .welcome-overlay {
+  background: #f0f8ff;
+  color: #1a1a1a;
+}
+
+body.light-mode .welcome-text {
+  background: linear-gradient(135deg, #111, #555);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 
 /* ═══════════════════════════════════════════
    RESPONSIVE
@@ -520,7 +645,7 @@
 
   .social-row { justify-content: center; }
 
-  .avatar-img { width: 170px; height: 170px; }
+  .avatar-img { width: 200px; height: 200px; }
 
   .projects-grid {
     grid-template-columns: repeat(2, 1fr);
