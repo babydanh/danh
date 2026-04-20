@@ -1,27 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4facfe&center=true&vCenter=true&width=435&lines=Welcome+to+babydanh's+Profile!;a+developer" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/babydanh%2FREADME.md-101010?style=flat&logo=github&logoColor=8e8e8e" alt="Repo Badge" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png" width="150" style="border-radius: 50%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=Welcome+to+Babydanh's+Profile!;An+IT+Student+and+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png" width="160" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
 <hr style="border-top: 1px solid #30363d;">
 
 <h2 align="center">About Me</h2>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 20px; background-color: #0d1117;">
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 25px; background-color: #0d1117; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
   <table border="0" width="100%">
     <tr>
       <td width="55%" valign="top">
         <ul>
-          <li>🎓 IT Student @ <b>HUFLIT</b> (University of Foreign Languages - Information Technology)</li>
-          <li>🚀 Developing: <b>RaoVat24H</b> (Professional Flutter Application)</li>
-          <li>💻 Languages & Core: <b>Dart, C#, HTML/CSS</b></li>
-          <li>🛠 Favorite tools: Flutter, VS Code, Git, Figma</li>
-          <li>📈 Researching: EAs trading strategies (MT4/MT5)</li>
-          <li>🌐 Website: <a href="https://babydanh.github.io/babydanh/">babydanh.github.io</a></li>
-          <li>🎮 Hobbies: Gaming (Minecraft, Valorant)</li>
+          <li>🎓 **IT Student** @ <b>HUFLIT</b> University</li>
+          <li>🚀 **Developing**: <b>RaoVat24H</b> (Professional Flutter Application)</li>
+          <li>💻 **Main Languages**: **Dart, C#, HTML/CSS**</li>
+          <li>🛠 **Favorite Tools**: Flutter, VS Code, Git, Figma</li>
+          <li>📈 **Interests**: Researching EAs trading strategies (MT4/MT5)</li>
+          <li>🌐 **Portfolio**: <a href="https://babydanh.github.io/babydanh/">babydanh.github.io</a></li>
+          <li>🎮 **Hobbies**: Minecraft, Valorant</li>
         </ul>
       </td>
       <td width="45%" valign="top" align="right">
@@ -38,9 +42,12 @@
 <h2 align="center">Tech Stacks</h2>
 
 <p align="center">
- <h3 align="center">A passionate frontend developer from Vietnam</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babydanh&theme=tokyonight&hide_border=true" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">A Passionate Frontend Developer From Vietnam</h3>
+
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://discordapp.com/users/babydanh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/danh.nguyenminh.777" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -80,15 +87,7 @@
 <h2 align="center">My Snake Contribution <3</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babydanh&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/babydanh/babydanh/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babydanh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
